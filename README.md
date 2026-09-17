@@ -1,9 +1,11 @@
-# Portfólio DBA
+### 🛠️ Stack Tecnológico
+- **Bancos de Dados:** SQL Server | Oracle 
+- **Linguagens & Automação:** T-SQL | Python | Shell Scripting
+- **Ferramentas:** SSMS | SQL Server Agent
 
-Bem-vindo ao meu portfólio de estudos e projetos em Administração de Banco de Dados SQL Server.
-Este repositório reúne scripts, consultas, práticas e mini-projetos que desenvolvi durante minha jornada de aprendizado rumo à carreira de *DBA SQL Server*.
-
-O objetivo deste portfólio é demonstrar na prática meus conhecimentos em:
+Bem-vindo ao meu repositório de scripts e soluções. 
+Atuo como DBA focado em garantir a alta disponibilidade, segurança e performance de ambientes de banco de dados.
+Este espaço serve como meu canivete suíço pessoal, onde documento scripts de administração, automação de rotinas e troubleshooting do dia a dia.
 
 - Administração do SQL Server
 - Backup e Restore
